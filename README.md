@@ -1,5 +1,4 @@
-### Hi there 👋, Oussema Zmerli
-#### Full Stack Developer
+### Hi, I'm Oussema 👋
 
 <img src="https://github.com/ZmerliOussema/ZmerliOussema/blob/main/OUSSEMA%20zMERLI.png" width=1000px>
 
