@@ -6,7 +6,8 @@ I am Oussema Zmerli, a skilled Full Stack Developer with a background in embedde
 
 Skills: Java, JavaScript, HTML, CSS, Spring Boot, ExpressJs, NodeJs, ReactJS and AngularJS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Oussema Zmerli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](zmerlioussema@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Oussema Zmerli/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](zmerlioussema@gmail.com)  
 
 
 
