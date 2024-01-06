@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Oussema Zmerli
+#### Full Stack Developer
+![Full Stack Developer](https://github.com/ZmerliOussema/ZmerliOussema/blob/main/OUSSEMA%20zMERLI.png)
 
-<!--
-**ZmerliOussema/ZmerliOussema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Oussema Zmerli, a skilled Full Stack Developer with a background in embedded engineering. However, it was during my final course project that I had the opportunity to delve into web development by creating a captivating web application. I discovered a genuine passion for this technology. As a self-motivated learner, I thrive on adapting to new challenges and technologies. I am committed to gaining extensive experience in this domain, continuously seeking opportunities to push my boundaries and tackle new challenges.
 
-Here are some ideas to get you started:
+Skills: Java, JavaScript, HTML, CSS, Spring Boot, ExpressJs, NodeJs, ReactJS and AngularJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
